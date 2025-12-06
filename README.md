@@ -1,5 +1,5 @@
-# Avian Diversity in Colorado Springs' Urban Greenspaces
-These files contain the Google Earth Engine code that was used to develop the imagery and analysis in this ArcGIS StoryMap: 
+# Avian Biodiversity in Colorado Springs' Urban Greenspaces
+These files contain the Google Earth Engine code that was used to develop the imagery and analysis in this ArcGIS StoryMap: https://storymaps.arcgis.com/stories/a9d2e85f26b94804aabd53fc4c82ac91
 
 The file, *ndvi*, contains the code that was used to develop the seasonal NDVI maps and corresponding statistical analysis, and *tgdi_classification* contains the code for the TGDI analysis.
 
